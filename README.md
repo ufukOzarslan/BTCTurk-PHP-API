@@ -12,7 +12,7 @@ Nasıl Kullanılır ?
 
 Kullanmadann önce projenize dosyayı veya sınıfı dahil etmeniz gerekmektedir.**Servisden gelen tüm datalar dizi dönecektir.**
 
-> **Çalıştırma:**
+> **KOD:**
 ```
 $new = new BTCTurk();
 print_r ($new->ticker ());
