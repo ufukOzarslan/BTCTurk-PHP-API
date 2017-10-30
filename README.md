@@ -16,3 +16,7 @@ Kullanmadann önce projenize dosyayı veya sınıfı dahil etmeniz gerekmektedir
 ```
 $new = new BTCTurk();
 print_r ($new->ticker ());
+
+
+
+  [1]: https://github.com/BTCTrader/broker-api-docs
