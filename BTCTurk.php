@@ -2,9 +2,9 @@
 
     /**
      * Created by PhpStorm.
-     * User: ufukOzarslan
-     * Date: 28.10.17
-     * Time: 15:43
+     * User: ufuk Ozarslan {ozarslan@hublabs.com.tr}
+     * Date: 28.10.17 15:43
+     * @ BTCTurk.com API Method
      */
     class BTCTurk
     {
